@@ -1,0 +1,6 @@
+framework module Pods_IOSecondProject {
+  umbrella header "Pods-IOSecondProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
